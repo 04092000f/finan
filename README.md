@@ -1,3 +1,3 @@
 # finan
 
-Django App for predicting Stock Prices of a Company
+Django App for Predicting Stock Prices of a Company
